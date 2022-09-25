@@ -1,0 +1,16 @@
+h1{
+    background-color: blueviolet;
+    font-size: larger;
+    font-style: italic;
+}
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: oblique;
+    background-color: chocolate;;
+}
+h2{
+    background-color: crimson;
+    font-variant: small-caps;
+    text-decoration: black;
+}
