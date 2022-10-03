@@ -1,0 +1,24 @@
+*{
+    color: blue;
+    background-color: chartreuse;
+}
+#roxie1{
+    color: darkblue;
+    background-color: darkkhaki;
+    font-style: italic;
+}
+.roxie2{
+    color: black;
+    background-color: chartreuse;
+}
+.roxie3{
+    color: black;
+    background-color: blue;
+}
+.container{
+    padding-left: 200px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 200px;
+    
+}

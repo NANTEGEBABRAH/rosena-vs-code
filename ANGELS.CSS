@@ -1,0 +1,21 @@
+h1{
+    font-size: larger;
+    text-decoration: wavy;
+    font-weight: 500;
+    font-style: oblique;
+    text-shadow: 0em;
+    background-color: blue;
+    color: red;
+}
+p{
+    background-color: purple;
+    color: black;
+}
+h2{
+    color: royalblue;
+    background-color: black
+}
+ol{
+    color: springgreen;
+    background-color: black
+}
